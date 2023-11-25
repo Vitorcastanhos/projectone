@@ -42,7 +42,7 @@ Feel free to customize the content, styles, and images to suit your project. You
 
 <br>
 
-## License
+![GitHub License](https://img.shields.io/github/license/jaywcjlove/tools)
 
 This project is licensed under the MIT License.
 
