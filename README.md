@@ -1,6 +1,8 @@
 ## 🚀 Project One 🚀 ##
 
+
 ## 📝 Description:
+
 This project is a simple HTML webpage for showcasing unique environments created with taste and professionalism. The page emphasizes clean and well-decorated spaces that convey elegance and finesse. It includes an attractive hero section with an image, a headline, and descriptive text. The footer contains links to Instagram and a contact email.
 
 <br>
@@ -24,13 +26,6 @@ img/: Directory containing images used in the project <br>
 
 <br>
 
-## External Dependencies
-
-Inter Font <br>
-Open Sans Font
-
-<br>
-
 ## Usage
 
 Feel free to customize the content, styles, and images to suit your project. You can replace the placeholder text and images with your own.
@@ -38,7 +33,7 @@ Feel free to customize the content, styles, and images to suit your project. You
 <br>
 
 ## 👋🏻 Author
-@Vitorcastanhos / @Maik Brito
+@Vitorcastanhos
 
 <br>
 
@@ -52,3 +47,12 @@ This project is licensed under the MIT License.
 
 Fonts: Inter, Open Sans <br>
 Images: Downloaded from Figma, it can be replaced.
+
+<br/>
+
+## Preview
+
+<br/>
+
+![image](https://github.com/Vitorcastanhos/projectone/assets/77864032/8cb9e658-09b5-4428-bf41-532defb9adfd)
+
